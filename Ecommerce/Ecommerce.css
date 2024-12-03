@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-logo {
+    height: 50px;
+    width: 150px;
+    padding-left: 15px;
+    
+}
+#back-style{
+    background-image: linear-gradient(to right,#8b9ab5,#b58b9a);
+}
+#back-button-stytle{
+    border-color:black;
+}
+#navitem1 {
+    color: black;
+    font-size: 24px;
+    font-family: "Caveat";
+    margin-right: 7px;
+    font-weight: 600;
+
+}
+
+#navitem2 {
+    color: black;
+    font-size: 24px;
+    font-family: "Caveat";
+    margin-right: 7px;
+    font-weight: 600;
+}
+
+#navitem3 {
+    color: black;
+    font-size: 24px;
+    font-family: "Caveat";
+    margin-right: 7px;
+    font-weight: 600;
+}
+
+#navitem4 {
+    color: black;
+    font-size: 24px;
+    font-family: "Caveat";
+    margin-right: 7px;
+    font-weight: 600;
+}
+
+#navitem5 {
+    color: black;
+    font-size: 24px;
+    font-family: "Caveat";
+    margin-right: 7px;
+    font-weight: 600;
+}
+
+.Services-Section {
+    background-color: #c2cbcc;
+    height: 100%;
+    background-size: cover;
+}
+
+.service-section-heading {
+    color: #183b56;
+    font-family: "Lobster";
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.service-section-paragraph {
+    color: black;
+    font-family: "Caveat";
+    font-size: 30px;
+}
+
+.service-section-card {
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+
+}
+
+.service-section-card-image {
+    height: 120px;
+    width: 140px;
+    padding: 10px;
+}
+
+.service-section-card-heading {
+    color: #1f2933;
+    font-family: "Lobster";
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.service-section-card-paragraph {
+    color: black;
+    font-family: "Caveat";
+    font-size: 25px;
+
+
+}
+
+.products-section {
+    background-color: #cae0e3;
+    background-size: cover;
+
+}
+
+.products-section-heading {
+    color: #183b56;
+    font-family: "Lobster";
+    font-size: 45px;
+    font-weight: 800;
+
+}
+
+.products-card {
+    height: 328px;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.products-card-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+
+    background-size: cover;
+
+
+}
+
+.products-card-section1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+
+    background-size: cover;
+
+
+}
+
+.products-card-section2 {
+    background-image: url("https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437073.jpg?t=st=1732691941~exp=1732695541~hmac=e57eae3684acd4865a16acc389dbc759412810fcb9ff1999d38df2acc07281e4&w=996");
+
+    background-size: cover;
+
+
+}
+
+.products-card-section3 {
+    background-image: url("https://img.freepik.com/free-photo/tv-with-city-skyline-illuminated-dusk-with-traffic-motion-generative-ai_188544-19469.jpg?t=st=1732692161~exp=1732695761~hmac=5bbb0e528111da474bcaf22eb052ef0117b614522fb09a979d186aebfb5c43fa&w=1060");
+
+    background-size: cover;
+
+
+}
+
+.products-card-section4 {
+    background-image: url("https://media3.bsh-group.com/Images/1920x/19425048_Siemens_Home_Appliances_Brand_Reshape_Laundry_Care_Washin_Machines_Desktop_Stage_16_9.webp");
+
+    background-size: cover;
+
+
+}
+
+.products-card-section5 {
+    background-image: url("https://img.freepik.com/premium-photo/luxury-wristwatch-dark-background-selective-focusgenerative-ai_841229-2439.jpg?w=1060");
+
+    background-size: cover;
+
+
+}
+
+
+.products-card-section-heading {
+    color: white;
+    font-family: "Lobster";
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.products-card-section-paragraph {
+    color: white;
+    font-family: "Caveat";
+    font-size: 22px;
+}
+
+.products-card-section-button {
+    background-color: white;
+    color: #ff9f00;
+    border-radius: 20px;
+    height: 43px;
+    width: 125px;
+    border-style: none;
+    font-family: "Lobster";
+}
+
+.linear-gradient-background {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    height: 100%;
+    background-size: cover;
+}
+
+.offers-section-heading {
+    color: #ad2167;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: "Lobster";
+}
+
+.Explore-Section {
+    background-color: #ccecf0;
+    background-size: cover;
+    width: 100%;
+
+
+}
+
+.Explore-Section-heading {
+    color: #183b56;
+    font-family: "Lobster";
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.Explore-Section-card {
+    background-color: white;
+    border-radius: 16px;
+    width: 100%;
+
+
+}
+
+.Explore-Section-card-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.Explore-Section-card-image {
+    padding: 5px;
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.Explore-Section-card-image-heading {
+
+    font-family: "Caveat";
+    font-size: 25px;
+    color: #1f2933;
+}
+
+.anchor-element {
+    color: #ff9f00;
+    font-family: "Lobster";
+    font-weight: 500;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.Contact-Us-Section {
+    background-color: #8bb0b5;
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    padding: 40px;
+
+}
+
+.Contact-Us-Section-heading {
+    color: #183b56;
+    font-family: "Lobster";
+    font-size: 65px;
+    font-weight: 700;
+    padding-bottom: 25px;
+
+
+}
+
+.Contact-Us-Section-button {
+
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px;
+
+}
+
+.Trending-Blogs-Section {
+    background-color: white;
+    background-size: cover;
+    height: 100%;
+
+}
+
+.Trending-Blogs-Section-heading {
+    color: #183b56;
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 15px;
+    font-family: "Lobster";
+}
+
+.Trending-Blogs-Section-card {
+    height: 100%;
+    background-color: white;
+
+
+}
+
+.Trending-Blogs-Section-card-image {
+   
+    width: 100%;
+
+}
+
+.Trending-Blogs-Section-card-heading1 {
+    color: #959ead;
+    font-family: "Caveat";
+    font-size: 30px;
+
+}
+
+.Trending-Blogs-Section-card-heading2 {
+    color: #183b56;
+    font-size: 37px;
+    font-weight: 700;
+}
+
+.Trending-Blogs-Section-card-paragraph1 {
+    color: #959ead;
+    font-family: "Caveat";
+    font-size: 32px;
+}
+
+.Trending-Blogs-Section-card-paragraph2 {
+    color: #ff9f00;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Lobster";
+}
+
+.Footer-Section {
+    background-color: #0d2436;
+    background-size: cover;
+    height: 100%;
+
+}
+
+.Footer-Section-image {
+    height: 80px;
+    width: 65%;
+    margin: 16px;
+}
+
+.icon {
+    background-color: #152c3e;
+    color: #5a7184;
+    height: 60px;
+    width: 60px;
+    font-size: 22px;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.Footer-Section-address {
+    color: #5a7184;
+    font-family: "Lobster";
+    font-size: 22px;
+    margin: 19px;
+    font-weight: 500;
+}
+
+.Footer-Section-description-heading {
+    color: #5a7184;
+    font-family: "Lobster";
+    font-size: 30px;
+    font-weight: 500;
+
+}
+
+.Footer-Section-description {
+    color: #5a7184;
+    font-family: "Caveat";
+    font-size: 23px;
+    list-style-type: none;
+    padding: 4px;
+}
+
+.hr-line {
+    border-color: #5a7184;
+}
+
+.copyright-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 21px;
+
+}
